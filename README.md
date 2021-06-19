@@ -10,9 +10,13 @@ Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator
 ```dart
    Flutter 
 ```
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" width="120">
+
 ```java
    Android Native (Java)
 ```
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="120">
+
 ```javascript
    Javascript
 ```
