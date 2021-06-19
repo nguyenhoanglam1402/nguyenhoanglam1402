@@ -21,6 +21,12 @@ Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator
    Javascript
 ```
 
+<img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="120">
+
+```javascript
+   Firebase
+```
+
 ### My Stats 🧗‍♂
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhoanglam1402&show_icons=true)  
 
