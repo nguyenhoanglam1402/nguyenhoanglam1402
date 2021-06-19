@@ -7,21 +7,22 @@ Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator
 
 ### Used Technologies
 ![image](https://user-images.githubusercontent.com/66240966/122638314-ab1d1a00-d11d-11eb-8962-d76dd7288587.png)
+<img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" width="120">
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="120">
+
+
 ```dart
    Flutter 
 ```
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" width="120">
 
 ```java
    Android Native (Java)
 ```
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="120">
 
 ```javascript
    Javascript
 ```
-
-<img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="120">
 
 ```javascript
    Firebase
