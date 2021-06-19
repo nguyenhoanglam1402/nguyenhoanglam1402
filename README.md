@@ -10,8 +10,8 @@ Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator
 ```dart
    Flutter 
 ```
-```java
-   Java
+```C#
+   Android Native
 ```
 ```javascript
    Javascript
