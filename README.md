@@ -13,6 +13,7 @@ Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" width="80">
       <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="80">
       <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="80">
+      <img src="https://store.speedtree.com/site-assets/uploads/Unity-Logo-White.png" width="160">
    </center>
 </div>
 
