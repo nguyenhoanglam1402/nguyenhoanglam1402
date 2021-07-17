@@ -24,7 +24,7 @@ Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator
 ```
 
 ```javascript
-   Javascript
+   ReactJS
 ```
 
 ```javascript
