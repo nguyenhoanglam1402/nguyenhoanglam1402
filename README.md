@@ -12,6 +12,7 @@ Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator
       <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="80">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" width="80">
       <img src="https://store.speedtree.com/site-assets/uploads/Unity-Logo-White.png" width="160">
+      <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" width="80">
    </center>
 </div>
 
