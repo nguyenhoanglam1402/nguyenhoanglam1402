@@ -5,8 +5,6 @@
 Hello everyone, my name is <b>Nguyen Hoang Lam (Lam Emilie)</b>. An avid creator of new things and a developer of mobile apps and Unity3D games. You can visit my Facebook page here [https://www.facebook.com/lamnh.gcd/]
 - 💁‍♂️ Fun fact: I really like to make more friendship everybody. And I like playing game too :D 
 
-<a href="https://app.daily.dev/liamnguyen_1402"><img src="https://api.daily.dev/devcards/bf7d7abd1cfe4f3bbf6edbc29b626456.png?r=w13" width="400" alt="Liam Hoang Nguyen's Dev Card"/></a>
-
 ### Used Technologies and Languages
 <div>
    <center>
